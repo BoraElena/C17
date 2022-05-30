@@ -5,7 +5,7 @@ function App() {
 
   const ShoppingList = [
     "1.Mere",
-    "2.Rosii",
+    "2.Rsii",
     "3.Cascaval",
     "4.Sunca",
     "5.Paine",
