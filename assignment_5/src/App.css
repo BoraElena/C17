@@ -1,0 +1,26 @@
+.App{
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+align-content: center;
+
+}
+.slidershow{
+  position: relative;
+  width: 50%;
+}
+
+.photos{
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+
+}
+.move{
+
+  top: 50%;
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
